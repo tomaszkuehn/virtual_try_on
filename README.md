@@ -29,6 +29,16 @@ pip install -e .
 
 ## Usage
 
+### Web usage
+
+1. Switch to web folder
+2. Run 
+```bash
+python .\web_app.py
+```
+3. Open http://localhost:5000
+
+
 ### Basic Usage
 
 ```bash
